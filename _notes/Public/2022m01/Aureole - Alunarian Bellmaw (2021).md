@@ -3,8 +3,8 @@ title : Aureole - Alunarian Bellmaw (2021)
 notetype : feed
 date : 10-01-2022
 ---
-
-![[Pasted image 20220109233338.png]]
+![slbum cuvvert](/assets/img/aureole_alunarianbellmaw.png)
+![[aureole_alunarianbellmaw.png]]
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2844372934/size=large/bgcol=333333/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://markovsoroka.bandcamp.com/album/alunarian-bellmaw">Alunarian Bellmaw by Aureole</a></iframe>
 
 **Aureole** - *Alunarian Bellmaw*

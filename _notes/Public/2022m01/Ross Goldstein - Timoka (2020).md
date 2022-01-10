@@ -4,6 +4,6 @@ notetype : feed
 date : 10-01-2022
 ---
 
-![[2022_01_goldstein.jpg]]
+![[rossgoldstein_timoka.jpg]]
 #artist/ross-goldstein
 #label/birdwatcher
