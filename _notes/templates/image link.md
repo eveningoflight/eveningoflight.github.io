@@ -1,1 +1,1 @@
-![ALT TEXT](https://eveningoflight.github.io/assets/img/1-how-to.png)
+![ALT TEXT](/assets/img/IMAGENAME.png)
