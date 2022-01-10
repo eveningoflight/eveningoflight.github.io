@@ -1,7 +1,7 @@
 ---
 title : Aureole - Alunarian Bellmaw (2021)
 notetype : feed
-date : {date}
+date : 10-01-2022
 ---
 
 ![[Pasted image 20220109233338.png]]
