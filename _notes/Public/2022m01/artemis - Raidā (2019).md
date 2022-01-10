@@ -1,6 +1,6 @@
 ---
 title : artemis - Raidā (2019)
-notetype : feed
+notetype : unfeed
 date : 10-01-2022
 ---
 

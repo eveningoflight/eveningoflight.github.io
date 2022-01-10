@@ -1,6 +1,6 @@
 ---
 title : Ross Goldstein - Timoka (2020)
-notetype : feed
+notetype : unfeed
 date : 10-01-2022
 ---
 

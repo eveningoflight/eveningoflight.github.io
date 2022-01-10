@@ -1,6 +1,6 @@
 ---
 title : Aureole - Alunarian Bellmaw (2021)
-notetype : feed
+notetype : unfeed
 date : 10-01-2022
 ---
 ![slbum cuvvert](/assets/img/aureole_alunarianbellmaw.png)
