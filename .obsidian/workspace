@@ -9,9 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/cloudscapes/Ἀρέθουσα's Dawn 2022.md",
+            "file": "pages/index.md",
             "mode": "source",
-            "source": false
+            "source": true
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/cloudscapes/Ἀρέθουσα's Dawn 2022.md",
+                "file": "pages/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "123ade7ed51745f0",
   "lastOpenFiles": [
-    "_notes/Public/cloudscapes/Ἀρέθουσα's Dawn 2022.md",
-    "_notes/Public/2022m01/artemis - Raidā (2019).md",
-    "_notes/Public/2022 weekly pages/2022 week 01.md",
-    "_notes/Public/Welcome to the garden.md",
     "pages/index.md",
-    "_posts/2020-03-01-features.md",
-    "_notes/Public/cloudscapes.md",
-    "_notes/Public/Markdown Rendered.md",
+    "pages/notes.md",
+    "pages/posts.md",
     "_notes/Public/Hidden Note.md",
-    "_notes/templates/image link.md"
+    "_notes/Public/Markdown Rendered.md",
+    "_notes/Public/Welcome to the garden.md",
+    "README.md",
+    "_notes/Public/2022 weekly pages/2022 week 01.md",
+    "_notes/Public/cloudscapes/Ἀρέθουσα's Dawn 2022.md",
+    "_notes/Public/2022m01/artemis - Raidā (2019).md"
   ]
 }
