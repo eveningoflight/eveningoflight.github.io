@@ -6,6 +6,10 @@ date : 01-01-2022
 
 <iframe width="99%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Feveningoflight%2Farethousas-dawn-2022%2F" frameborder="0" ></iframe>
 
+Ἀρέθουσα’s dawn set to welcome 2022, originally streamed live on Twitch.
+
+—
+
 ### Tracklist:
 
 Hakobune - above the northern skies shown, pt.1  

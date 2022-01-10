@@ -149,9 +149,7 @@
                                     <a href="{{item.url}}" style="text-decoration: none;">
                                         <h4>{{ item.title }}</h4>
                                         <div class="content">
-                                            <p style="margin: 0px;">
-                                            {{ item.excerpt | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 260 }}}}
-
+                                            <p style="margin: 0px;"> 
                                             {{ item.content | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 260 }}
                                             </p>
                                         </div>
