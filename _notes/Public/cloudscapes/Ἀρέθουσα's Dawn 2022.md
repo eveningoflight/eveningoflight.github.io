@@ -4,7 +4,7 @@ notetype : feed
 date : 01-01-2022
 ---
 
-<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2Feveningoflight%2Farethousas-dawn-2022%2F" frameborder="0" ></iframe>
+<iframe width="600" height="600" src="https://www.mixcloud.com/widget/iframe/?feed=%2Feveningoflight%2Farethousas-dawn-2022%2F" frameborder="0" ></iframe>
 
 ### Tracklist:
 

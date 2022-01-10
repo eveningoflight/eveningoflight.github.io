@@ -150,6 +150,8 @@
                                         <h4>{{ item.title }}</h4>
                                         <div class="content">
                                             <p style="margin: 0px;">
+                                            {{ item.exceprt | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 260 }}}}
+
                                             {{ item.content | strip_html | strip | remove: "[[" | remove: "]]" | escape | truncate: 260 }}
                                             </p>
                                         </div>
