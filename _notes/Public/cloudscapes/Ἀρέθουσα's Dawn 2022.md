@@ -2,12 +2,11 @@
 title : Ἀρέθουσα's Dawn 2022
 notetype : feed
 date : 01-01-2022
-excerpt_separator: xxx
 ---
 
 <iframe width="99%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Feveningoflight%2Farethousas-dawn-2022%2F" frameborder="0" ></iframe>
 
-Ἀρέθουσα’s dawn set to welcome 2022, originally streamed live on Twitch. xxx
+Ἀρέθουσα’s dawn set to welcome 2022, originally streamed live on Twitch.
 
 ### Tracklist:
 
