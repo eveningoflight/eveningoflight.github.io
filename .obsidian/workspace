@@ -4,14 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "123ade7ed51745f0",
+        "id": "e029c831c22b5891",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "640b811d852e18fc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/2022 weeklies.md",
+            "file": "_notes/Public/2022 weekly pages/2022 week 01–03.md",
             "mode": "source",
-            "source": true
+            "source": false
           }
         }
       }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/2022 weeklies.md",
+                "file": "_notes/Public/2022 weekly pages/2022 week 01–03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "123ade7ed51745f0",
+  "active": "640b811d852e18fc",
   "lastOpenFiles": [
-    "_notes/Public/2022 weeklies.md",
-    "_notes/Public/cloudscapes/Cloudscapes.md",
-    "_notes/Public/cloudscapes/Gene Hex - Sans Sang.md",
-    "_notes/Public/cloudscapes/Ἀρέθουσα's Dawn 2022.md",
     "_notes/Public/2022 weekly pages/2022 week 01–03.md",
+    "_notes/templates/MELI.md",
+    "_notes/templates/image link.md",
+    "_notes/Public/cloudscapes/Cloudscapes.md",
+    "_notes/Public/2022 weeklies.md",
+    "_notes/Public/cloudscapes/Ἀρέθουσα's Dawn 2022.md",
+    "_notes/Public/cloudscapes/Gene Hex - Sans Sang.md",
     "_notes/Public/Hidden Note.md",
     "_notes/Public/2022 weekly pages/2022 week 04.md",
-    "_notes/Public/Markdown Rendered.md",
-    "_notes/Public/Welcome to the garden.md",
-    "_notes/Public/2022m01/Ross Goldstein - Timoka (2020).md"
+    "_notes/Public/Markdown Rendered.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 title : Cloudscapes
-notetype : feed
+notetype : unfeed
 date : 10-01-2022
 ---
 
