@@ -2,6 +2,7 @@
 title : Ἀρέθουσα's Dawn 2022
 notetype : feed
 date : 01-01-2022
+tags: artist/hakobune artist/marsha-fisher artist/moss-covered-technology artist/the-penitential-station
 ---
 
 <iframe width="99%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Feveningoflight%2Farethousas-dawn-2022%2F" frameborder="0" ></iframe>
@@ -41,3 +42,4 @@ Tove Jansson - Mumin och havet
 ---
 
 #cloudscapes
+#artist/federico-mosconi #artist/med-gen #artist/hildegard-von-bingen #artist/iluiteq #artist/rhucle #artist/claire-rousay #artist/orla-wren #artist/gavin-bryars #artist/united-bible-studies #artist/celer #artist/forest-management #artist/daughters-of-elvin #artist/jakob-lindhagen #artist/dag-rosenqvist #artist/bahía-mansa #artist/ocoeur #artist/julien-marchal #artist/deniz_cuylan #artist/maja-elliott #artist/terran-aurora #artist/melissa-pons #derek-jarman #tove-jansson 

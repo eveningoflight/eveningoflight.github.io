@@ -12,18 +12,6 @@
           "state": {},
           "pinned": true
         }
-      },
-      {
-        "id": "6ddf685df15cbb42",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_notes/Public/cloudscapes/Gene Hex · Sans Sang.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/cloudscapes/Gene Hex · Sans Sang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +84,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ddf685df15cbb42",
+  "active": "e029c831c22b5891",
   "lastOpenFiles": [
+    "jekyll garden examples/Hidden Note.md",
+    "jekyll garden examples/Markdown Rendered.md",
+    "jekyll garden examples/Welcome to the garden.md",
+    "_notes/Public/cloudscapes/Untitled.md",
+    "_notes/Public/cloudscapes/Cloudscapes.md",
+    "_notes/Public/cloudscapes/Ἀρέθουσα's Dawn 2022.md",
     "_notes/Public/cloudscapes/Gene Hex · Sans Sang.md",
     "_notes/templates/Cloudscape.md",
-    "_notes/Public/cloudscapes/Ἀρέθουσα's Dawn 2022.md",
     "_notes/Public/2022 weekly pages/2022 week 01–03.md",
-    "_notes/Public/2022m01/Aureole - Alunarian Bellmaw (2021).md",
-    "_notes/Public/2022m01/artemis - Raidā (2019).md",
-    "_notes/templates/RETHI.md",
-    "_notes/templates/MELI.md",
-    "_notes/templates/base feed note.md",
-    "_notes/Public/2022 weekly pages/2022 week 04.md"
+    "_notes/Public/2022m01/Aureole - Alunarian Bellmaw (2021).md"
   ]
 }
