@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "styg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,15 +86,15 @@
   },
   "active": "e029c831c22b5891",
   "lastOpenFiles": [
+    "_notes/Public/9999 Our Music/Terran Aurora.md",
+    "_notes/Public/0000 Cloudscapes/μηλι · Stygian Dementia 10.md",
+    "_notes/Public/0000 Cloudscapes/Cloudscapes.md",
     "_notes/Public/2022 weekly pages/2022 week 01–03.md",
     "_notes/templates/VEEV.md",
     "_notes/templates/Cloudscape.md",
     "_notes/templates/base feed note.md",
     "_notes/templates/eol review.md",
     "_notes/templates/release header.md",
-    "_notes/templates/image link.md",
-    "_notes/templates/HEDDA.md",
-    "_notes/templates/MELI.md",
-    "_notes/templates/RETHI.md"
+    "_notes/templates/image link.md"
   ]
 }
