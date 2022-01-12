@@ -4,5 +4,7 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "assets/img"
+  "attachmentFolderPath": "assets/img",
+  "showFrontmatter": true,
+  "showLineNumber": true
 }

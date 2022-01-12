@@ -8,4 +8,4 @@ All Cloudscapes & DJ mixes.
 
 [[Ἀρέθουσα's Dawn 2022]]
 
-[[Gene Hex - Sans Sang]]
+[[Gene Hex · Sans Sang]]
