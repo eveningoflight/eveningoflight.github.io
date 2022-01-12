@@ -6,13 +6,13 @@ layout: Stylesheet
 /* Containers: Body, Container, Box, Main, Header, Content */ 
 
 html, html[data-theme="light"] {
-    --bg-main: #FFFFFF;
-    --bg-sub: #FAFAFC;
-    --color-bis: #363636;
-    --text-main: #18181C;
+    --bg-main: #EFF6DF;
+    --bg-sub: #DFEDBF;
+    --color-bis: #576F1F;
+    --text-main: #192009;
     --text-sub: #5D5D67;
-    --link: #2380ED;
-    --border: #E5E5E5;
+    --link: #708F28;
+    --border: #C0DB80;
 }
 
 html[data-theme="dark"] {
