@@ -1,5 +1,5 @@
 ---
-title : Ἀρέθουσα's Dawn 2022
+title : MAKE EQUAL TO FILENAME
 notetype : feed
 date : {{date}}
 tags:
