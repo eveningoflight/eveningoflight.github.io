@@ -16,24 +16,25 @@ html, html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --bg-main: #18181C;
-    --bg-sub: #262626;
-    --color-bis: #E6E6E6;
-    --text-main: #FAFAFC;
-    --text-sub: #FFFFFF;
-    --link: #CDD289;
-    --border: #353535;
+    --bg-main: #1A2009;
+    --bg-sub: #27300D;
+    --color-bis: #E0EDBF;
+    --text-main: #E8F2CF;
+    --text-sub: #F0F6DF;
+    --link: #576F1F;
+    --border: #344012;
 }
 
 
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
-        --bg-main: #18181C;
-        --bg-sub: #262626;
-        --text-main: #FAFAFC;
-        --text-sub: #FFFFFF;
-        --link: #CDD289;
-        --border: #353535;
+        --bg-main: #1A2009;
+        --bg-sub: #27300D;
+        --color-bis: #E0EDBF;
+        --text-main: #E8F2CF;
+        --text-sub: #F0F6DF;
+        --link: #576F1F;
+        --border: #344012;
     }
 
     html[data-theme="light"] {
