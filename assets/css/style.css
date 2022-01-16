@@ -16,8 +16,8 @@ html, html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --bg-main: #1A2009;
-    --bg-sub: #27300D;
+    --bg-main: #7E8164;
+    --bg-sub: #3F4B3B;
     --color-bis: #E0EDBF;
     --text-main: #E8F2CF;
     --text-sub: #F0F6DF;
@@ -28,8 +28,8 @@ html[data-theme="dark"] {
 
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
-        --bg-main: #1A2009;
-        --bg-sub: #27300D;
+        --bg-main: #7E8164;
+        --bg-sub: #3F4B3B;
         --color-bis: #E0EDBF;
         --text-main: #E8F2CF;
         --text-sub: #F0F6DF;
