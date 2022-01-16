@@ -10,7 +10,6 @@ tags: artist/terran-aurora
 OAOS: synths, drones, and various
 
 #### albums:
-
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4187920307/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://eveningoflight.bandcamp.com/album/helical-birth">Helical Birth by Terran Aurora</a></iframe>
 
 #### various:
