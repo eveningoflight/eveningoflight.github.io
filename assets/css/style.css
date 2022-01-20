@@ -16,10 +16,10 @@ html, html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-    --bg-main: #7E8164;
-    --bg-sub: #3F4B3B;
+    --bg-main: #3F4B3B;
+    --bg-sub: #7E8164;
     --color-bis: #E0EDBF;
-    --text-main: #E8F2CF;
+    --text-main: #DFEDBF;
     --text-sub: #F0F6DF;
     --link: #576F1F;
     --border: #344012;
@@ -28,10 +28,10 @@ html[data-theme="dark"] {
 
 @media (prefers-color-scheme: dark) {
     html, html[data-theme="dark"] {
-        --bg-main: #7E8164;
-        --bg-sub: #3F4B3B;
+        --bg-main: #3F4B3B;
+        --bg-sub: #7E8164;
         --color-bis: #E0EDBF;
-        --text-main: #E8F2CF;
+        --text-main: #DFEDBF;
         --text-sub: #F0F6DF;
         --link: #576F1F;
         --border: #344012;
