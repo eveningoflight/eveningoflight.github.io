@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "styg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,12 +101,12 @@
   "lastOpenFiles": [
     "_notes/Public/2022 weekly pages/2022 week 03.md",
     "_notes/Public/2022 weekly pages/0000 WIP.md",
+    "_notes/Public/2022 weekly pages/2022 week 02.md",
+    "_notes/Public/2022 weekly pages/2022 week 01.md",
     "_notes/Public/0000 Cloudscapes/Cloudscapes.md",
     "_notes/Public/0000 Cloudscapes/Ἀρέθουσα's Dawn 2022.md",
     "_notes/Public/0000 Cloudscapes/Gene Hex · Sans Sang.md",
     "_notes/Public/0000 Cloudscapes/Gene Hex · 2021.11.21 Bedroom Sesh.md",
-    "_notes/Public/2022 weekly pages/2022 week 02.md",
-    "_notes/Public/2022 weekly pages/2022 week 01.md",
     "_notes/Public/2022 weekly pages/2022 weeklies.md",
     "_notes/templates/image link.md"
   ]
