@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/2022 weekly pages/2022 week 03.md",
+            "file": "_notes/Public/2022 weekly pages/2022 week 04.md",
             "mode": "source",
             "source": false
           }
@@ -79,13 +79,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/2022 weekly pages/2022 week 03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -97,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "33ba8d0cfa7b9d4b",
+  "active": "42fe8b40ed46212a",
   "lastOpenFiles": [
-    "_notes/Public/2022 weekly pages/2022 week 03.md",
+    "_notes/Public/2022 weekly pages/2022 week 04.md",
+    "_notes/Public/0000 Pages/About.md",
     "_notes/Public/2022 weekly pages/0000 WIP.md",
-    "_notes/Public/2022 weekly pages/2022 week 02.md",
     "_notes/Public/2022 weekly pages/2022 week 01.md",
+    "_notes/Public/2022 weekly pages/2022 week 03.md",
+    "_notes/Public/2022 weekly pages/2022 weeklies.md",
+    "_notes/Public/2022 weekly pages/2022 week 02.md",
     "_notes/Public/0000 Cloudscapes/Cloudscapes.md",
     "_notes/Public/0000 Cloudscapes/Ἀρέθουσα's Dawn 2022.md",
-    "_notes/Public/0000 Cloudscapes/Gene Hex · Sans Sang.md",
-    "_notes/Public/0000 Cloudscapes/Gene Hex · 2021.11.21 Bedroom Sesh.md",
-    "_notes/Public/2022 weekly pages/2022 weeklies.md",
-    "_notes/templates/image link.md"
+    "_notes/Public/0000 Cloudscapes/Gene Hex · Sans Sang.md"
   ]
 }
