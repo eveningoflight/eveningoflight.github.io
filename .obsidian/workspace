@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "42fe8b40ed46212a",
+        "id": "c4615b56eddd48f8",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -14,7 +14,7 @@
         }
       },
       {
-        "id": "33ba8d0cfa7b9d4b",
+        "id": "afd3369e99d4ae6d",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -58,6 +58,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c2b87ddf31cc3bef",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -79,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/Public/2022 weekly pages/2022 week 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,25 +97,37 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "0476c1343f938fc2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "42fe8b40ed46212a",
+  "active": "afd3369e99d4ae6d",
   "lastOpenFiles": [
     "_notes/Public/2022 weekly pages/2022 week 04.md",
-    "_notes/Public/0000 Pages/About.md",
     "_notes/Public/2022 weekly pages/0000 WIP.md",
-    "_notes/Public/2022 weekly pages/2022 week 01.md",
-    "_notes/Public/2022 weekly pages/2022 week 03.md",
-    "_notes/Public/2022 weekly pages/2022 weeklies.md",
-    "_notes/Public/2022 weekly pages/2022 week 02.md",
-    "_notes/Public/0000 Cloudscapes/Cloudscapes.md",
-    "_notes/Public/0000 Cloudscapes/Ἀρέθουσα's Dawn 2022.md",
-    "_notes/Public/0000 Cloudscapes/Gene Hex · Sans Sang.md"
+    "old wordpress install/post/2020/04/2020-04-02-cloudscape-crowned-in-stars.md",
+    "old wordpress install/post/2013/05/2013-05-05-4246.md",
+    "old wordpress install/post/2016/12/2016-12-24-cloudscape-68-winter-holidays-2016.md",
+    "old wordpress install/post/2013/01/2013-01-30-cloudscape-aqua-vitae-aqua-mortis-decadans-vs-evening-of-light.md",
+    "old wordpress install/post/2014/12/2014-12-21-cloudscape-50-winter-solstice-2014.md",
+    "old wordpress install/post/2014/02/2014-02-06-cloudscape-44-february-2014.md",
+    "old wordpress install/post/2014/05/2014-05-04-cloudscape-sacred-voice-deconstruction.md",
+    "old wordpress install/post/2008/11/2008-11-30-review-marc-almond-with-michael-cashmore-gabriel-the-lunatic-lover-2008.md"
   ]
 }
