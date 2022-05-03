@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Public/2022 weekly pages/2022 week 04.md",
+            "file": "_notes/Public/2022 batch pages/2022 batch 04.md",
             "mode": "source",
             "source": false
           }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/2022 weekly pages/2022 week 04.md",
+                "file": "_notes/Public/2022 batch pages/2022 batch 04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +119,15 @@
   },
   "active": "afd3369e99d4ae6d",
   "lastOpenFiles": [
-    "_notes/Public/2022 weekly pages/2022 week 04.md",
-    "_notes/Public/2022 weekly pages/0000 WIP.md",
+    "_notes/Public/2022 batch pages/2022 batch 04.md",
+    "_notes/Public/2022 batch pages/2022 batch 01.md",
+    "_notes/compositions/miri it is.md",
+    "_notes/Public/0000 Cloudscapes/Cloudscapes.md",
+    "_notes/Public/2022 batch pages/2022 discoveries.md",
+    "_notes/Public/2022 batch pages/0000 WIP.md",
+    "_notes/Public/2022 batch pages/2022 batch 03.md",
+    "_notes/Public/2022 batch pages/2022 batch 02.md",
     "old wordpress install/post/2020/04/2020-04-02-cloudscape-crowned-in-stars.md",
-    "old wordpress install/post/2013/05/2013-05-05-4246.md",
-    "old wordpress install/post/2016/12/2016-12-24-cloudscape-68-winter-holidays-2016.md",
-    "old wordpress install/post/2013/01/2013-01-30-cloudscape-aqua-vitae-aqua-mortis-decadans-vs-evening-of-light.md",
-    "old wordpress install/post/2014/12/2014-12-21-cloudscape-50-winter-solstice-2014.md",
-    "old wordpress install/post/2014/02/2014-02-06-cloudscape-44-february-2014.md",
-    "old wordpress install/post/2014/05/2014-05-04-cloudscape-sacred-voice-deconstruction.md",
-    "old wordpress install/post/2008/11/2008-11-30-review-marc-almond-with-michael-cashmore-gabriel-the-lunatic-lover-2008.md"
+    "old wordpress install/post/2013/05/2013-05-05-4246.md"
   ]
 }
